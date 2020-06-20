@@ -8,7 +8,7 @@ from datetime import date
 
 #job() script: Daily update of a custom journal template
 keep = gkeepapi.Keep()
-success = keep.login('aceradness@gmail.com', 'Decathlete2010')
+success = keep.login('@gmail.com', '...')
 
 #Get contents of daily note
 DailyJournalID = '1a8jSU-gNQd6Izud5Eu6yQnGbAXlrHSv55LbIyLNmckTglwgwyhi_ThT0DqG0nE2l7pIH'
